@@ -4,7 +4,7 @@ English:
 Study projects for HTW Berlin (Business Computing)  
 2nd Semester
 Basic Concepts of Project Management: 
-1) Project "Contract Management System": Conception, evaluation and planning of a launch of a contract management system in a company.
+1) Project "Contract Management System": Conception, evaluation and planning of a launch of a contract management system in a company.   
   Learning targets and Study Assignment:
     - get the basic understanding of project management.
     - learn the basics of project management in practice through successful project implementation: project organization, project roles, project procedures, project documents.
@@ -23,8 +23,8 @@ Deutsch:
 Studienprojekte während des Studiums an der HTW Berlin (Wirtschaftsinformatik)    
 2. Semester  
 Grundlagen des Projektmanagements:    
-1) Projekt "Vertragsmanagementsystem": Konzeption, Evaluierung und Planung einer Einführung eines Vertragsmanagementsystems in einem Unternehmen.
-  Lernziele/Aufgabe:  
+1) Projekt "Vertragsmanagementsystem": Konzeption, Evaluierung und Planung einer Einführung eines Vertragsmanagementsystems in einem Unternehmen.   
+  Lernziele/Aufgabe:     
   - Grundverständnis zum Thema Projektmanagement zu erwerben. 
   - Durch eine erfolgreiche Projektumsetzung Grundlagen des Projektmanagements in der Praxis lernen: Projektorganisation, Projektrollen, Projektvorgehen, Projektdokumente.
   - Die erforderlichen Projektdokumente erstellen können: Projektplan, Pflichtenheft, Projektangebot, Projektvertrag, Kriterienkatalog, Softwareevaluierungskonzept, Abnahmeerklärung, Aenderungsantrag usw.

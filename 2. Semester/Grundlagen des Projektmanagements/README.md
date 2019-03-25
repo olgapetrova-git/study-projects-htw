@@ -33,7 +33,7 @@ Grundlagen des Projektmanagements:
     - Planung der Implementierung des Programmsystems im Unternehmen: Einführungskonzept, Workflow, Rollenbeschreibung.  
     - Live Demo und Präsentation for quasi-Mitarbeirern des Unternehmens durchführen.   
   *Meine Aufgaben und mein Beitrag zum Projekt:*     
-    - Interaktion mit Auftraggebern bei der Analyse und Zerlegung von Anforderungen, einschließlich Live-Meetings und Diskussionen, Handhabung der schriftlichen Dokumentation (Sitzungsprotokolle erstellen).
+    - Interaktion mit Auftraggebern bei der Analyse und Zerlegung von Anforderungen, einschließlich Live-Meetings und Diskussionen, Handhabung der schriftlichen Dokumentation.
     - Durchführung komplexer Analysen und wirtschaftlicher Bewertungen der auf dem Markt verfügbarer Lösungen, um dem Auftraggeber die für eine Entscheidung erforderlichen Informationen zur Verfügung zu stellen.
     - Erstellung eines finanziell Konzeptnachweises für die vorgeschlagene Lösung.
     - Erstellung und Pflege der Unterlagen des Projekts.

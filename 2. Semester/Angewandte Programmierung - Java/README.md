@@ -17,7 +17,9 @@ Applied Programming Programmierung - Java:
 	- Streams  
 	- Documentation in JavaDoc-style  
  2) Project "Plotter" (in Folder "2_Plotter"): Develop swing-based application for drawing graphs with coordinate points, using Java Swing components for user interface, java collections (LinkedList), MVC, Observer patterns and working with a process in separate thread.  
- 	Learning targets:    
+ 	Study Assignment:    
+	- Plotter Aufgabe - Swing Observer MVC.pdf  
+	Learning targets:    
 	- Use of Collection classes
 	- Swing components (JPanel, JTextArea, JLabel, JTextField and JButton)
 	- MVC design pattern
@@ -42,6 +44,8 @@ Angewandte Programmierung - Java:
 	- Streams
 	- Dokumentation im JavaDoc-Style
 2) Projekt "Plotter" (im Ordner "2_Plotter): Swing-basierte Anwendung zum Zeichnen von Graphen mit Koordinatenpunkten. Verwenden von Java-Swing-Komponenten für Benutzeroberfläche, Java-Kollectionen (verknüpfte Liste), MVC- und Observer-Entwurfsmuster und ausführen einen Prozess in einem separaten Thread.   
+	Aufgabe:  
+	- Plotter Aufgabe - Swing Observer MVC.pdf  
 	Lernziele:    
 	- Verwendung von Collection-Klassen
 	- Swing-Komponenten (z. B. JPanel, JTextArea, JLabel, JTextField und JButton)

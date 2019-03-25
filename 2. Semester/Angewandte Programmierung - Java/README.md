@@ -22,7 +22,8 @@ Applied Programming Programmierung - Java:
 	- Swing components (JPanel, JTextArea, JLabel, JTextField and JButton)
 	- MVC design pattern
 	- Threads
-	- Documentation in JavaDoc style 
+	- Documentation in JavaDoc style  
+	
 Deutsch:  
 Studienprojekte während des Studiums an der HTW Berlin (Wirtschaftsinformatik)    
 2. Semester  

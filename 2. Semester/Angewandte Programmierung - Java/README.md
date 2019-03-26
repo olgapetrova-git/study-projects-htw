@@ -4,7 +4,7 @@ Study projects for HTW Berlin (Business Computing)
 2. Semester  
 Applied Programming Programmierung - Java:  
 1) Project "Wine shop" (in Folder "1_Weinladen"):  
-Implementation of a software solution for processing and storing customer information in the online shop using Java base classes and collections.
+Implementation of a software solution for processing and storing customer information in the online shop using Java base classes and collections.  
 	Study Assignment:  
 	- Part 1: Basic classes and Generics (Weinladen_Aufgabe 1_Basisklassen und Generics.pdf)  
 	- Part 2: Streams (Weinladen_Aufgabe 2_Streams.pdf)  
@@ -33,7 +33,7 @@ Studienprojekte während des Studiums an der HTW Berlin (Wirtschaftsinformatik)
 2. Semester  
 Angewandte Programmierung - Java:   
 1) Projekt "Weinladen" (im Ordner "1_Weinladen"): 
-Implementierung einer Softwarelösung zur Verarbeitung und Speicherung von Kundeninformationen im Weinhändler Online-Shop unter Verwendung von Java-Basisklassen und -Kollektionen. 
+Implementierung einer Softwarelösung zur Verarbeitung und Speicherung von Kundeninformationen im Weinhändler Online-Shop unter Verwendung von Java-Basisklassen und -Kollektionen.  
 	Aufgabe:
 	- Teil 1: Weinladen_Aufgabe 1_Basisklassen und Generics.pdf
 	- Teil 2: Weinladen_Aufgabe 2_Streams.pdf   

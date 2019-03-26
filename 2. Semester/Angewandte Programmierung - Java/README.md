@@ -3,7 +3,8 @@
 Study projects for HTW Berlin (Business Computing)  
 2. Semester  
 Applied Programming Programmierung - Java:  
-1) Project "Wine shop" (in Folder "1_Weinladen"): Develop a software solution to support the distribution of the wines for a wine merchant.  
+1) Project "Wine shop" (in Folder "1_Weinladen"):  
+Implementation of a software solution for processing and storing customer information in the online shop using Java base classes and collections.
 	Study Assignment:  
 	- Part 1: Basic classes and Generics (Weinladen_Aufgabe 1_Basisklassen und Generics.pdf)  
 	- Part 2: Streams (Weinladen_Aufgabe 2_Streams.pdf)  
@@ -16,7 +17,8 @@ Applied Programming Programmierung - Java:
 	- Working with collection classes  
 	- Streams  
 	- Documentation in JavaDoc-style  
- 2) Project "Plotter" (in Folder "2_Plotter"): Develop swing-based application for drawing graphs with coordinate points, using Java Swing components for user interface, java collections (LinkedList), MVC, Observer patterns and working with a process in separate thread.  
+ 2) Project "Plotter" (in Folder "2_Plotter"):  
+ Swing-based application for drawing graphs with coordinate points, using Java Swing components for user interface, java collections (LinkedList), MVC, Observer patterns and working with a process in separate thread.  
  	Study Assignment:    
 	- Plotter Aufgabe - Swing Observer MVC.pdf  
 	Learning targets:    
@@ -30,7 +32,8 @@ Deutsch:
 Studienprojekte während des Studiums an der HTW Berlin (Wirtschaftsinformatik)    
 2. Semester  
 Angewandte Programmierung - Java:   
-1) Projekt "Weinladen" (im Ordner "1_Weinladen"): Für einen Weinhändler ist eine Software zu entwickeln, die den Vertrieb der Weine unterstützt.  
+1) Projekt "Weinladen" (im Ordner "1_Weinladen"): 
+Implementierung einer Softwarelösung zur Verarbeitung und Speicherung von Kundeninformationen im Weinhändler Online-Shop unter Verwendung von Java-Basisklassen und -Kollektionen. 
 	Aufgabe:
 	- Teil 1: Weinladen_Aufgabe 1_Basisklassen und Generics.pdf
 	- Teil 2: Weinladen_Aufgabe 2_Streams.pdf   
